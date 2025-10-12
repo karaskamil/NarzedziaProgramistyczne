@@ -1,0 +1,19 @@
+{
+    "date": "11/10/2025",
+    "firstName": "Zygfryd",
+    "lastName": "Zgrydowski",
+    "email": "Zygidowski@example.pl",
+    "phoneNumber": "111222333",
+    "products": [
+        {
+            "productCode": "UHX-765",
+            "amount": "2",
+            "measure": "meters"
+        },
+        {
+            "productCode": "UIO-32",
+            "amount": "5",
+            "measure": "kg"
+        }
+    ]
+}
