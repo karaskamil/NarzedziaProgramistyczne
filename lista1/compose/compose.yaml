@@ -1,0 +1,7 @@
+name: "lista1"
+services:
+    lista1:
+            image: lista1:1
+            container_name: "lista1"
+            volumes:
+            - "./orders:./orders"
