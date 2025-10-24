@@ -47,7 +47,7 @@ public class Lista1{
                     //System.out.println(json.getAbsolutePath());
                     try {
                         String code = order.getOrderCode(json);
-                        System.out.println("Order code: " + code);
+                        System.out.println("Code for " + json.getName() + ": " + code);
                     } catch (IOException e) {
                         System.out.println("Couldn't load the json file..." + json.getName());
                     }

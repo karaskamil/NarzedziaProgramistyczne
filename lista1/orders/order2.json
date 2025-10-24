@@ -1,0 +1,24 @@
+{
+    "date": "24/10/2025",
+    "firstName": "Tomasz",
+    "lastName": "Baginski",
+    "email": "TomBag@example.pl",
+    "phoneNumber": "333222111",
+    "products": [
+        {
+            "productCode": "CFG-009",
+            "amount": "210",
+            "measure": "m"
+        },
+        {
+            "productCode": "CDE-010",
+            "amount": "50",
+            "measure": "m"
+        },
+        {
+            "productCode": "BZZ-999",
+            "amount": "100",
+            "measure": "kg"
+        }
+    ]
+}
